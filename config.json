@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "90e0aff5c929e444038355746a952aaf",
+      "css": "shopping-basket",
+      "code": 62097,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5adef5b3275fcd874b0815a0637c5800",
+      "css": "login-1",
+      "code": 61484,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "d7271d490b71df4311e32cdacae8b331",
+      "css": "home",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd492243d64e21dfe16a92452f7861cb",
+      "css": "th-large",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b1887b423d2fd15c345e090320c91ca0",
+      "css": "th",
+      "code": 59394,
+      "src": "fontawesome"
+    }
+  ]
+}
